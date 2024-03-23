@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "azrloadocumentsintoindex_STORAGE": "",
+    "AZURE_SEARCH_SERVICE_ENDPOINT": "",
+    "AZURE_SEARCH_API_KEY": "",
+    "AZURE_SEARCH_INDEX_NAME": "",
+    "OPENAI_API_KEY": ""
+  }
+}
